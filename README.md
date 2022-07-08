@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+### My name is Muhammad Rizki Siraj
+<ul>
+<li>
+  🔭 I’m currently working on my fullstack notes app project
+  </li>
+<li>
+  🌱 I’m currently learning react redux and node.js
+  </li>
+<li>
+  👯 I’m looking to collaborate on any beginner-friendly react open source project
+  </li>
+ </ul>
+
 <!--
 **rizkisiraj/rizkisiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
