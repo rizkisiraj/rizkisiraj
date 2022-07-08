@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-### You are currently looking at <strong>Muhammad Rizki Siraj</strong>
+### You are currently looking at Muhammad Rizki Siraj's github page
 <ul>
 <li>
-  🔭 I’m currently working on my fullstack notes app project
+  🔭 He is currently working on my fullstack notes app project
   </li>
 <li>
-  🌱 I’m currently learning react redux and node.js
+  🌱 He is currently learning react redux and node.js
   </li>
 <li>
-  👯 I’m looking to collaborate on any beginner-friendly react open source project
+  👯 He's looking to collaborate on any beginner-friendly react open source project
   </li>
  </ul>
  <br />
