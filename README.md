@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Muhammad Rizki Siraj
+### You are currently looking at <strong>Muhammad Rizki Siraj</strong>
 <ul>
 <li>
   🔭 I’m currently working on my fullstack notes app project
