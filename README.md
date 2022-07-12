@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### You are currently looking at **Muhammad Rizki Siraj** 's github page
+You are currently looking at **Muhammad Rizki Siraj**'s github page
 <ul>
 <li>
   🔭 He is currently working on his fullstack notes app project
