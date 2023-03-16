@@ -6,7 +6,7 @@ You are currently looking at **Muhammad Rizki Siraj**'s github page
   🔭 He is currently working on his fullstack notes app project
   </li>
 <li>
-  🌱 He is currently learning react redux and node.js
+  🌱 He is currently learning flutter.
   </li>
 <li>
   👯 He's looking to collaborate on any beginner-friendly react open source project
